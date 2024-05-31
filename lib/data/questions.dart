@@ -46,7 +46,7 @@ const questions = [
     ],
   ),
   QuizQuestion(
-    'Под кикам брендом выпускался Nissan Almera Classic в Корее??',
+    'Под каким брендом выпускался Nissan Almera Classic в Корее?',
     [
       'Samsung',
       'Iriver',

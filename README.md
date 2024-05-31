@@ -7,3 +7,4 @@ A simple quiz app. This application was used to learn the basics of development 
 ![Main categories](./screenshots/screenshot1.png)
 ![Main categories](./screenshots/screenshot2.png)
 ![Main categories](./screenshots/screenshot3.png)
+![Main categories](./screenshots/screenshot4.png)
